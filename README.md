@@ -20,5 +20,5 @@ Halsen YT2mp3 converter is a python based converter for YouTube to MP3/MP4. The 
 ```
 ## Authors
 
-- [@Halsen](https://www.github.com/espenhalsen) - Dev
+- [@Halsen](https://www.github.com/espenhalsen)
 
